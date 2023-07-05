@@ -1,0 +1,13 @@
+[Unit]
+Description=Run Discord Bot in Background
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/home/ElaXan/discordBot
+ExecStart=/usr/bin/npm run start
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

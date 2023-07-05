@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "akamud.vscode-javascript-snippet-pack",
+        "xabikos.javascriptsnippets",
+        "mgmcdermott.vscode-language-babel",
+        "ms-vscode.js-debug-nightly",
+        "sburg.vscode-javascript-booster",
+        "wakatime.vscode-wakatime"
+    ]
+}

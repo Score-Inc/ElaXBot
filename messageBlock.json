@@ -1,0 +1,43 @@
+{
+    "openai": {
+        "user": [
+            "677798133391949898",
+            "806943209632432159",
+	        "1058380810400571473",
+            "724998903124066414",
+            "1006911636507992115"
+        ],
+        "message": [
+            "You have been blocked from chatting with me at this time. Please try again later.",
+            "Access denied! You do not have permission to chat with me.",
+            "I'm sorry, but you have been blocked from chatting with me. Maybe we can talk again in the future?",
+            "Access denied! Your request to chat with me has been rejected.",
+            "I'm sorry, but you are currently blocked from chatting with me. Please respect my boundaries.",
+            "Access denied! Your chat privileges have been revoked due to inappropriate behavior.",
+            "You have been blocked from communicating with me. Let's take a break from each other for now.",
+            "Access denied! Your chat request has been blocked by my security settings.",
+            "I'm sorry, but I have blocked you from chatting with me. Please understand that it's for the best.",
+            "Access denied! Your chat request has been detected as spam and has been blocked.",
+            "Your chat request has been blocked due to the use of bad language or provocative behavior.",
+            "I'm sorry, but your chat request has been denied due to the use of inappropriate language or behavior.",
+            "Access denied! Your chat request has been blocked for using bad language or attempting to provoke the owner.",
+            "I'm sorry, but you have been blocked from chatting with me due to the use of bad language or provocative behavior.",
+            "Access denied! Your chat request has been rejected due to the use of inappropriate language or behavior that could provoke the owner.",
+            "Your chat request has been blocked due to the use of offensive language or behavior that is meant to provoke or harass the owner.",
+            "I'm sorry, but your chat request has been denied due to the use of bad language or behavior that is meant to provoke or offend the owner.",
+            "Access denied! Your chat request has been blocked for using offensive language or attempting to provoke or harass the owner.",
+            "I'm sorry, but you have been blocked from chatting with me due to the use of bad language or behavior that is meant to provoke or offend the owner.",
+            "Access denied! Your chat request has been rejected due to the use of inappropriate language or behavior that is meant to provoke or harass the owner.",
+            "Your chat request has been blocked due to the use of offensive language or behavior that could provoke or offend the owner.",
+            "I'm sorry, but your chat request has been denied due to the use of bad language or behavior that is meant to provoke or harass the owner.",
+            "Access denied! Your chat request has been blocked for using offensive language or attempting to provoke or offend the owner.",
+            "I'm sorry, but you have been blocked from chatting with me due to the use of bad language or behavior that is meant to provoke or harass the owner.",
+            "Access denied! Your chat request has been rejected due to the use of inappropriate language or behavior that is meant to provoke or offend the owner.",
+            "Your chat request has been blocked due to the use of offensive language or behavior that could provoke or harass the owner.",
+            "I'm sorry, but your chat request has been denied due to the use of bad language or behavior that is meant to provoke or offend the owner.",
+            "Access denied! Your chat request has been blocked for using offensive language or attempting to provoke or harass the owner.",
+            "I'm sorry, but you have been blocked from chatting with me due to the use of bad language or behavior that is meant to provoke or offend the owner.",
+            "Access denied! Your chat request has been rejected due to the use of inappropriate language or behavior that is meant to provoke or harass the owner."
+        ]
+    }
+}

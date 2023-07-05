@@ -1,0 +1,156 @@
+// GC
+Spawn Monster : /spawn <id>
+Monster Spawn : /spawn <id>
+Remove Quest : /q remove <id>
+Add Characters : /give <id> lv<level>
+Get Characters : /give <id> lv<level>
+Add Artifact : /give <id> lv<level>
+Get Artifact : /give <id> lv<level>
+Remove Item : /clear
+Disable Godmode : /prop godmode 0
+Enable Godmode : /prop godmode 1
+Kill all Monsters : /killall
+Clear all Monsters : /killall
+Skip quest : /q skip
+Add achievement : /am grant <id>
+Get all Achievements : /am grantall
+Remove achievement : /am revoke <id>
+Remove all Achievements : /am revokeall
+Add all Achievements : /am grantall
+Kill my current character : /kill
+Kill my current avatars : /kill
+Kill character : /kill
+No Cooldown : /stats freeze cdr 0
+Change language : /language
+Change talent : /talent
+Teleport : /teleport
+Teleport all player : /tpall
+Change weather : /weather
+Get current position : /pos
+Position : /pos
+Change world level : /prop wl <level>
+World level : /prop wl <level>
+List online player : /list
+All command : /help
+Heal characters : /heal
+Heal all characters : /heal
+Spawn Monsters with unlimited Health : /spawn <id> hp0
+Clear artifact : /clear art
+Add daily quest : /daily add <id>
+Finish all daily : /daily finishall
+Reset daily timer : /daily reset
+Copy character data from official to private server from https://enka.network : /enka <UID>
+Enter dungeon : /dg <id>
+Change character equipment : /equip <id>
+Get all characters : /give av
+Get all weapons : /give wp
+Get all materials : /give mt
+Get all serenitea pot furniture : /give house
+Get all artifacts : /give af
+Kill all entities : /killall
+Unlock FPS limit : /moe ufps.luac
+Add quest : /q add <id>
+Start added quest : /q start <id>
+Finish quest : /q finish <id>
+Restart quest : /q restart <id>
+Check quest completion info : /q status <id>
+Force quest to next sub-quest : /q next
+Force complete quest : /q skip
+Remove quest : /q remove <id>
+Remove all added quest : /q removeall
+Get remote code for web command : /remote on
+Deactivate remote code for web command : /remote off
+Reset active character constellation to 0 : /resetconst
+Reset all character constellation to 0 /resetconst all
+Set active character constellation to a certain level : /setconst <value>
+Set all character constellation to a certain level : /setconst <value> all
+Change friendship level : /setfetterlevel <value>
+Turn on god mode : /prop god 1
+Turn off god mode : /prop god 0
+Enable unlimited burst : /prop ue 1
+Disable unlimited burst : /prop ue 0
+Enable unlimited stamina : /prop ns 1
+Disable unlimited stamina : /prop ns 0
+Unlock map : /prop um 1
+Lock map : /prop um 0
+Open all feature : /prop osall 1
+Change abyss unlocked level : /prop abyss <value>
+Change battle pass unlocked level : /prop bplevel <value>
+Change world level : /prop wl <value>
+Change active character hp : /stat hp <value>
+Change active character max hp : /stat maxhp <value>
+Change active character base defense : /stat def <value>
+Change active character base attack : /stat atk <value>
+Change active character elemental mastery point : /stat em <value>
+Change active character crit rate : /stat crate <value>
+Change active character crit damage : /stat cdmg <value>
+Change active character skills cooldown reduction : /stat cdr <value>
+Change active character healing bonus : /stat heal <value>
+Change active character received heal bonus : /stat heali <value>
+Change active character shield strength : /stat shield <value>
+Change active character pyro damage bonus : /stat epyro <value>
+Change active character cryo damage bonus : /stat ecryo <value>
+Change active character hydro damage bonus : /stat ehydro <value>
+Change active character geo damage bonus : /stat egeo <value>
+Change active character dendro damage bonus : /stat edendro <value>
+Change active character electro damage bonus : /stat eelectro <value>
+Change active character physical damage bonus : /stat ephys <value>
+Change active character pyro resistance : /stat respyro <value>
+Change active character cryo resistance : /stat rescryo <value>
+Change active character hydro resistance : /stat reshydro <value>
+Change active character geo resistance : /stat resgeo <value>
+Change active character dendro resistance : /stat resdendro <value>
+Change active character electro resistance : /stat reselectro <value>
+Change active character physical resistance : /stat resphys <value>
+Set character normal attack talent level : /talent n <1-15>
+Set character elemental skill talent level : /talent e <1-15>
+Set character elemental burst talent level : /talent q <1-15>
+Set character all talent level : /talent all <1-15>
+Add owned character to active team : /team add <id>
+Remove character from active team : /team remove <id>
+Teleport all players in your coop world to your current position : /tpall
+Change weather to sunny : /weather sunny
+Change weather to raining : /weather rain
+Change weather to cloudy : /weather cloudy
+Change weather to thunderstorm : /weather thunderstorm
+Change weather to snowy : /weather snow
+Change weather to misty : /weather mist
+
+// GIO
+Spawn Monster : monster <id>
+Kill all monster : kill monster all
+Remove all monster : kill monster all
+Kill my current character : kill self
+Enable unlimited stamina : stamina infinite on
+Enable no stamina : stamina infinite on
+Disable unlimited stamina : stamina infinite off
+Disable no stamina : stamina infinite off
+Accept quest : quest accept <id>
+Add quest : quest add <id>
+Finsih quest : quest finish <id>
+Get Genesis Crystal : mcoin <amount>
+Genesis Crystal : mcoin <amount>
+Set my player level : player level
+Add Avatars : avatar add <id>
+Get Avatars : avatar add <id>
+Add Characters : avatar add <id>
+Get Characters : avatar add <id>
+player level : player level <level>
+Enable god mode to my character : wudi global avatar on
+Disable god mode to my character : wudi global avatar off
+Enable Infinite Health to monster : wudi global monster on
+Disable Infinite Health to monster : wudi global monster off
+Enable god mode : wudi global avatar on
+Disable god mode to monster : wudi global avatar off
+Enable No damage to the character : wudi global avatar on
+Disable No damage to the character : wudi global avatar off
+Enable No damage to the avatars : wudi global avatar on
+Disable No damage to the avatars : wudi global avatar off
+Add item : item add <id>
+Get item : item add <id>
+Add item to my inventory : item add <id>
+Add weapon : item add <id>
+Add weapon to my inventory : item add <id>
+Get weapon : item add <id>
+Add Kamisato Ayaka to my account : avatar add 10000002
+Add Character Kamisato Ayaka : avatar add 10000002

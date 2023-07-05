@@ -1,0 +1,53 @@
+{
+    "TOKEN": "NzE4Njk1MDUzOTc1ODcyMzMz.XtKjNg.8FxGdS-j56CGPJnzbTiYJZZDP-4",
+    "CLIENT_ID": "718695053975872333",
+    "OWNER_ID": "123456789012345678",
+    "WEBHOOK_URL": "WEBHOOK_URL_HERE",
+    "OPENAI": {
+        "API_KEY": "sk-XXXXXXXXXXXXXXXXXXXXXXXX",
+        "Model": "gpt-3.5-turbo",
+        "temperature": 0.9,
+        "Max_Tokens": 1000,
+        "Title": {
+            "Name": "OpenAI",
+            "URL": "https://openai.com/"
+        },
+        "Color": "Random",
+        "Allowed_Channel": [
+            "123456789012345678",
+            "234567890123456789"
+        ]
+    },
+    "CustomSearch": {
+        "API": "GOOGLE_CUSTOM_SEARCH_JSON_API",
+        "CX": ""
+    },
+    "Anime": {
+        "API": "kawaii.red API HERE"
+    },
+    "Database": {
+        "URI": "mongodb://127.0.0.1:27017",
+        "dbName": "discordBot"
+    },
+    "Prefix": "z!",
+    "RPC": {
+        "Type": "Playing",
+        "Status": "dnd",
+        "Details": [
+            "Hi, I am %d",
+            "Nice to meet you, my name is %d",
+            "What happend if I don't have internet?"
+        ]
+    },
+    "BlockedCommandShell": [
+        "1",
+        "2"
+    ],
+    "Tenor": {
+        "API_KEY": "TENOR_API_KEY"
+    },
+    "logWebhook": {
+        "name": "March7th",
+        "avatarUrl": ""
+    }
+}
